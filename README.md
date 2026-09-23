@@ -1,4 +1,4 @@
-## Roguelike game project to learn SDL3
+#Roguelike game project to learn SDL3
 
-# build steps: 
+## build steps: 
 cmake -B build && cmake --build build
