@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/ingmar/Documents/C_programming/ll_game/build",
+  "command": "/usr/bin/cc  -I/opt/homebrew/include -std=gnu11 -arch arm64 -o CMakeFiles/Game_SDL3.dir/main.c.o -c /Users/ingmar/Documents/C_programming/ll_game/main.c",
+  "file": "/Users/ingmar/Documents/C_programming/ll_game/main.c",
+  "output": "CMakeFiles/Game_SDL3.dir/main.c.o"
+}
+]
